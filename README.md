@@ -3,7 +3,7 @@
 ### About Me 🚀
 🎓 I’m a tech enthusiast and student at National Institute Of Techonlogy, Karnataka Surathkal. </br>
 🎯 I am currently exploring the field of Web Development and Web3.
-### 🧰 Languages and Tools:
+### 🧰 Languages, Frameworks and Tools:
 
 <br/>
 <code><img height="40" width="40" src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python"></code>
