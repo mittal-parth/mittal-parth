@@ -4,7 +4,7 @@
 #### 🎓 I'm a BTech student at the National Institute of Techonology Karnataka Surathkal
 
 - 🔭 I’m currently developing a Bug Tracking System.
-- 🌱 I’m currently learning the Django REST framework. 
+- 🌱 I’m currently learning the Django REST framework and more about my present tech stack. 
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about Web Development.
 <br/>
