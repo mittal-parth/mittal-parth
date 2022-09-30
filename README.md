@@ -3,9 +3,10 @@
 
 #### 🎓 I'm a BTech student at the National Institute of Techonology Karnataka Surathkal
 
-- 🌱 I’m currently learning DSA and more about my present tech stack. 
+- 🌱 I’m currently expaning my knowledge on Frontend Web Development.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about Web Development.
+- 🕺🏻Fun fact: I love to dance!
 <br/>
 
 ### :email: Let's connect:
