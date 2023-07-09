@@ -7,13 +7,12 @@ I have always been passionate about technology and believe that learning to code
 
 I love participating in hackathons, especially Web3 and AI. I look forward to constantly expanding my knowledge! ✨
 
+[Check out my website](https://parthmittal.netlify.app/)
 <br/>
 
 ### :email: Let's connect:
 
 <a href="https://www.linkedin.com/in/parth-mittal-b98b50201/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="linkedin" height="20" width="30" /></a>
-
-[Check out my website](https://parthmittal.netlify.app/)
 
 <br/>
 
