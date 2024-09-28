@@ -1,11 +1,7 @@
 <h1 align="center"> Hi there, 👋 I'm Parth Mittal</h1>
 
 
-#### 🎓 I'm a BTech student at the National Institute of Technology Karnataka Surathkal
-
-I have always been passionate about technology and believe that learning to code gives you the superpower to create a meaningful impact by solving real-world problems. 🚀
-
-I love participating in hackathons, especially Web3 and AI. I look forward to constantly expanding my knowledge! ✨
+Software Developer from India who is either busy improving his craft or pondering over the next big idea
 
 [Check out my website](https://parthmittal.netlify.app/)
 <br/>
