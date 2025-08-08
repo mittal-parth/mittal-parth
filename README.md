@@ -4,7 +4,7 @@
 
 Software Developer from India who is either busy improving his craft or pondering over the next big idea.
 
-- 🔭 I’m currently working on [polkadot-dev-cli](https://github.com/mittal-parth/polkadot-dev-cli), [Khoj](https://github.com/marcdhi/Khoj)
+- 🔭 I’m currently working on [Khoj](https://github.com/marcdhi/Khoj)
 - 💬 Ask me about Web Development, Blockchain and Cloud
 - 🕺 Fun fact: I like to dance in my free time :)
 
