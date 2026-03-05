@@ -17,38 +17,19 @@
 
 ---
 
-### Featured Projects
+### 🚀 Featured Projects
 
-- **Khoj**  
-  AI-personalised, location-based treasure hunts with on-chain rewards. Overall winning project at ETHIndia'24.  
-  **Stack**: Solidity, TypeScript, React, Tailwind, Gemini, thirdweb, IPFS  
-  🔗 [GitHub](https://github.com/mittal-parth/Khoj) · 🌐 [playkhoj.com](https://playkhoj.com/)
-
-- **Hackathon Curation AI Agent**  
-  An intelligent agent that curates hackathons from email newsletters, scores them using AI, and posts the best ones to Twitter.  
-  **Stack**: Python, Gemini, Gmail API, Google Sheets API, Twitter API, Google Cloud  
-  🔗 [GitHub](https://github.com/mittal-parth/hackathon-curation-agent)
-
-- **Comicify.ai**  
-  Turns any academic/news text into comic strips using GPT-3.5 and Stable Diffusion. Global AI HackFest 2023 winning project.  
-  **Stack**: React, Tailwind, OpenAI, Google Cloud, Flask  
-  🔗 [GitHub](https://github.com/ayush4345/Comicify.ai) · 🔗 [Devfolio](https://devfolio.co/projects/comicifyai-97a6)
-
-- **Polkadot Dev CLI**  
-  CLI tool that bundles linting, formatting, and version management for Polkadot developers.  
-  **Stack**: Rust  
-  🔗 [Crate](https://crates.io/crates/polkadot-dev-cli) · 🔗 [GitHub](https://github.com/mittal-parth/polkadot-dev-cli)
-
-- **GreenTrust**  
-  Decentralized certification system for organic farming, winning project at 3 hackathons.  
-  **Stack**: React, Next.js, Tailwind, IPFS, Solidity, Push Protocol  
-  🔗 [GitHub](https://github.com/mittal-parth/GreenTrust) · 🌐 [Live](https://green-trust-fantom.netlify.app/)
-
-- **Portfolio**  
-  Open source developer portfolio template with modern UI/UX and 140+ GitHub stars.  
-  **Stack**: React, Tailwind CSS, HTML  
-  🔗 [GitHub](https://github.com/mittal-parth/personal-portfolio) · 🌐 [Live](https://parthmittal.netlify.app/)
-
+- [<u>Khoj</u>](https://github.com/mittal-parth/Khoj) — AI-personalised, location-based treasure hunts with on-chain rewards (ETHIndia'24 overall winner).
+- [<u>Hackathon Curation AI Agent</u>](https://github.com/mittal-parth/hackathon-curation-agent) — Curates hackathons from email newsletters, ranks them with AI, and posts top picks to Twitter.
+- [<u>Comicify.ai</u>](https://github.com/ayush4345/Comicify.ai) — Turns academic/news text into comic strips using GPT-3.5 and Stable Diffusion (Global AI HackFest 2023 winner).
+- [<u>Polkadot Dev CLI</u>](https://github.com/mittal-parth/polkadot-dev-cli) — CLI bundling linting, formatting, and version management for Polkadot developers.
+- [<u>Non-Teaching Recruitment Portal, NITK</u>](http://recruitment.nitk.ac.in/) — Official recruitment portal for non-teaching staff with admin panel, email notifications, and payment integration.
+- [<u>GreenTrust</u>](https://github.com/mittal-parth/GreenTrust) — Decentralized certification system for organic farming, winning project at three hackathons.
+- [<u>ChargeSwap</u>](https://github.com/CommanderAstern/ChargeSwap) — Blockchain-based EV-battery swapping solution and winning project at ETHIndia'22.
+- [<u>Samsotech Table Management System</u>](https://www.linkedin.com/posts/mittal-parth_technologysolutions-softwaredevelopment-technology-activity-6994915645066809344-WnMY) — Restaurant, place, table, and real-time reservation management system with multi-tenant architecture, RBAC, SMS, and email integration.
+- [<u>Career Development Centre, NITK Website</u>](http://cdc.nitk.ac.in/) — Official CDC NITK website with a custom-built CMS.
+- [<u>Portfolio</u>](https://github.com/mittal-parth/personal-portfolio) — Open source developer portfolio template with modern UI/UX and 140+ GitHub stars.
+- [<u>Kosh SDK</u>](https://github.com/mittal-parth/kosh-sdk) — Simple and secure way to interact with remote MCP servers in Trusted Execution Environments (TEEs), built at ETHGlobal Trifecta. — Open source developer portfolio template with modern UI/UX and 140+ GitHub stars.
 ---
 
 ### Hackahtons
