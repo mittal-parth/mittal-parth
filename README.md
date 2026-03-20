@@ -19,14 +19,13 @@
 
 ### 🚀 Featured Projects
 
-- [<u>Khoj</u>](https://github.com/mittal-parth/Khoj) — AI-personalised, location-based treasure hunts with on-chain rewards (ETHIndia'24 overall winner).
+- [<u>Khoj</u>](https://github.com/mittal-parth/Khoj) — AI-personalised, location-based treasure hunts with on-chain rewards (ETHIndia'24 overall winner, Polkadot Fast Grants Awardee).
+- [<u>Echo</u>]() - A proactive AI assistant that’s always listening and executes without you having to ask. 
 - [<u>Hackathon Curation AI Agent</u>](https://github.com/mittal-parth/hackathon-curation-agent) — Curates hackathons from email newsletters, ranks them with AI, and posts top picks to Twitter.
 - [<u>Comicify.ai</u>](https://github.com/ayush4345/Comicify.ai) — Turns academic/news text into comic strips using GPT-3.5 and Stable Diffusion (Global AI HackFest 2023 winner).
 - [<u>Polkadot Dev CLI</u>](https://github.com/mittal-parth/polkadot-dev-cli) — CLI bundling linting, formatting, and version management for Polkadot developers.
 - [<u>Non-Teaching Recruitment Portal, NITK</u>](http://recruitment.nitk.ac.in/) — Official recruitment portal for non-teaching staff with admin panel, email notifications, and payment integration.
-- [<u>GreenTrust</u>](https://github.com/mittal-parth/GreenTrust) — Decentralized certification system for organic farming, winning project at three hackathons.
 - [<u>ChargeSwap</u>](https://github.com/CommanderAstern/ChargeSwap) — Blockchain-based EV-battery swapping solution and winning project at ETHIndia'22.
-- [<u>Samsotech Table Management System</u>](https://www.linkedin.com/posts/mittal-parth_technologysolutions-softwaredevelopment-technology-activity-6994915645066809344-WnMY) — Restaurant, place, table, and real-time reservation management system with multi-tenant architecture, RBAC, SMS, and email integration.
 - [<u>Career Development Centre, NITK Website</u>](http://cdc.nitk.ac.in/) — Official CDC NITK website with a custom-built CMS.
 - [<u>Portfolio</u>](https://github.com/mittal-parth/personal-portfolio) — Open source developer portfolio template with modern UI/UX and 140+ GitHub stars.
 - [<u>Kosh SDK</u>](https://github.com/mittal-parth/kosh-sdk) — Simple and secure way to interact with remote MCP servers in Trusted Execution Environments (TEEs), built at ETHGlobal Trifecta. — Open source developer portfolio template with modern UI/UX and 140+ GitHub stars.
