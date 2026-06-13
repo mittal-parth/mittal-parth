@@ -1,6 +1,6 @@
 # Hi, I'm Parth Mittal 👋
 
-- I am currently a Member of Technical Staff at [Oracle](https://www.oracle.com/).
+- I am currently a Member of Technical Staff at [Oracle](https://www.oracle.com), working in the Exadata Database as a Service, Control Plane team.
 - I like doing hackathons. Participated in 30+, won 12 (including one of India's largest Web3 hackathons), and judged 3.
 - I used to lead a team of 40+ student developers, building [IRIS](https://about.iris.nitk.ac.in/) - an MIS with 10K+ active users.
 - Graduated from [NITK](https://www.nitk.ac.in/) in 2024. Also an alumnus of the [Polkadot Blockchain Academy](https://polkadot.academy/) @ National University of Singapore.
